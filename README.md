@@ -31,7 +31,8 @@ This summary summarizes the steps of getting the prediction on the movie feature
 
 Used Tableau to visualize the film industry's overall growth on gross revenue from 1980 to 2020 and compare the different genre of movies vs it's revenue.
 
-<img width="693" alt="tableau_png" src="https://user-images.githubusercontent.com/102785000/185898142-acff8df4-9b71-4c72-80cf-10c205793cf4.png">
+<img width="682" alt="tableau" src="https://user-images.githubusercontent.com/102785000/186018586-d4121d09-5f3f-4ed6-b019-3239a0e911c8.png">
+
 
 ## Python
 Data Cleanining- dropped NAs and duplicates and converted data types.
