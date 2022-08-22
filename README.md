@@ -2,13 +2,10 @@
 
 <img width="962" alt="movie" src="https://user-images.githubusercontent.com/102785000/185897236-7dcc2430-eb42-4187-820c-b8c18eb838c4.png">
 
-Nowadays, people are deeply influenced by the film industry from both financial and cultural aspects. What makes a movie successful from the financial perspective? Its gross earning has to be greater than its budget. But what's the correlation between the movie's gross revenue and its other features like genre, company, star, director, votes, etc? For investors, they don't want to put a great budget in something that has just a very small impact to the movie's earning. Therefore predicting movie features correlation is beneficial to our movie investors. 
+Nowadays, people are deeply influenced by the film industry from both financial and cultural aspects. What makes a movie considered successful from the financial perspective? In this analysis project, I would take it as its gross earning has to be greater than its budget. But what's the correlation between the movie's gross revenue and its other features like genre, company, star, director, votes, etc? For investors, they don't want to put a great budget in something that has just a very small impact to the movie's earning. Therefore predicting movie features correlation is beneficial to our movie investors. 
 
 Technologies:
 Tableau, Python or Jupyter Notebook
-
-Dataset: 
-
 
 # Table of Contents
 
